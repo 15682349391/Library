@@ -2,7 +2,7 @@ package gittest;
 
 public class Test1 {
 	public static void main(String args[]) {
-		System.out.println("bug修复");
+		System.out.println("第二次的bug修复");
 	}
 
 }
